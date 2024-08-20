@@ -43,7 +43,7 @@ export default function App() {
       width="70%"
       margin="0 auto"
     >
-      <Heading level={1}>Hello Divyansh</Heading>
+      <Heading level={1}>Hello</Heading>
 
       <Divider />
 
